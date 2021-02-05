@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T27-API_ER_SQL_EX3", "T27-API_ER_SQL_EX3\T27-API_ER_SQL_EX3.csproj", "{55BDC2B3-643F-4B80-8F08-5AD70C5CF688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55BDC2B3-643F-4B80-8F08-5AD70C5CF688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BDC2B3-643F-4B80-8F08-5AD70C5CF688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BDC2B3-643F-4B80-8F08-5AD70C5CF688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BDC2B3-643F-4B80-8F08-5AD70C5CF688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F99BEF-A143-4EFD-BEDF-51EE8E538A93}
+	EndGlobalSection
+EndGlobal
